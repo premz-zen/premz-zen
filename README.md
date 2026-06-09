@@ -50,4 +50,47 @@ To maintain consistency and a clean aesthetic, I use a unified dark color scheme
   </table>
 </div>
 
+<br />
+
+### 🚀 Core Focus & Roadmap
+
+Here's how I structure my data-to-AI initiatives:
+
+```text
+┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
+│  Data Ingestion │ ────> │ Data Warehouse  │ ────> │  Intelligent    │
+│  & Engineering  │       │ & Modeling      │       │  Applications   │
+│                 │       │                 │       │                 │
+│  • Python / SQL │       │  • Snowflake    │       │  • Azure AI     │
+│  • Git / CI-CD  │       │  • MS Fabric    │       │  • AI Agents    │
+└─────────────────┘       └─────────────────┘       └─────────────────┘
+```
+
+#### 📁 Featured Focus Areas:
+
+*   **Intelligent Systems (AI/ML):** Designing agentic workflows, integrating Large Language Models (LLMs) via Azure AI Services, and architecting semantic search and prompt frameworks in Python.
+*   **Modern Data Warehousing:** Architecting scalable tables, schema modeling, and implementing analytical semantic models using Snowflake and Microsoft Fabric.
+*   **Data Products & BI:** Creating interactive analytics dashboards and semantic layers using Power BI to drive organizational decisions.
+
+<br />
+
+### 🤝 Connect with me
+
+Let's collaborate on building the future of AI and Data products!
+
+<p align="left">
+  <!-- Replace the placeholder URL with your actual LinkedIn profile link -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  </a>
+  <!-- Replace the placeholder email with your actual email address -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" />
+  </a>
+  <a href="https://github.com/premz-zen">
+    <img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+</p>
+
+
 
