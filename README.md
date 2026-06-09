@@ -33,3 +33,21 @@ To maintain consistency and a clean aesthetic, I use a unified dark color scheme
 | **Data Engineering** | ![Snowflake](https://img.shields.io/badge/Snowflake-1a1b26?style=flat-square&logo=snowflake&logoColor=ffffff) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1a1b26?style=flat-square&logo=microsoft&logoColor=ffffff) ![Power BI](https://img.shields.io/badge/Power_BI-1a1b26?style=flat-square&logo=power-bi&logoColor=ffffff) |
 | **Cloud & Tools** | ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1a1b26?style=flat-square&logo=microsoft-azure&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=ffffff) |
 
+<br />
+
+### 📊 Git Stats
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=premz-zen&show_icons=true&theme=dark&bg_color=1a1b26&title_color=ffffff&icon_color=79c0ff&text_color=8b949e&border_color=30363d" alt="Premasai's GitHub Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premz-zen&layout=compact&theme=dark&bg_color=1a1b26&title_color=ffffff&icon_color=79c0ff&text_color=8b949e&border_color=30363d" alt="Premasai's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
