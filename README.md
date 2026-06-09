@@ -7,7 +7,7 @@
   <a href="#-about-me">About Me</a> •
   <a href="#-tech-stack--skills">Skills</a> •
   <a href="#-git-stats">Stats</a> •
-  <a href="#-contact">Contact</a>
+  <a href="#-connect-with-me">Contact</a>
 </p>
 
 <hr />
