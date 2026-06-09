@@ -115,7 +115,7 @@ Here's how I architect end-to-end data-to-AI pipelines:
 > *"Data is the new oil — AI is the refinery. Let's build together."*
 
 <!-- Replace YOUR-LINKEDIN with your LinkedIn username -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/premasai-e-61b092230/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <!-- Replace your.email@example.com with your actual email -->
