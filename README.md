@@ -119,7 +119,7 @@ Here's how I architect end-to-end data-to-AI pipelines:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <!-- Replace your.email@example.com with your actual email -->
-<a href="mailto:your.email@example.com">
+<a href="mailto:epremasai@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/premz-zen">
