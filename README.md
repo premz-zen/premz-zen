@@ -9,6 +9,23 @@
   <strong>AI & Data Engineer &nbsp;|&nbsp; Cloud Solutions Builder &nbsp;|&nbsp; Open Source Learner</strong>
 </p>
 
+<!-- Contact Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/premasai-e-61b092230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:epremasai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/premz-zen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=premz-zen&style=flat-square&color=79c0ff&label=Profile+Views" alt="Profile Views" />
 
 <!-- Nav Links -->
 <p>
