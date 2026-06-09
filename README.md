@@ -1,50 +1,78 @@
-<h1 align="center">Hi there, I'm Premasai E 👋</h1>
-<p align="center">
-  <strong>AI & Data Engineer | Cloud Solutions Builder</strong>
+<div align="center">
+
+<!-- Animated Typing Headline -->
+<a href="https://github.com/premz-zen">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Premasai+E+%F0%9F%91%8B;AI+%26+Data+Engineer;Building+Intelligent+Systems;Azure+%7C+Snowflake+%7C+Python" alt="Typing SVG" />
+</a>
+
+<p>
+  <strong>AI & Data Engineer &nbsp;|&nbsp; Cloud Solutions Builder &nbsp;|&nbsp; Open Source Learner</strong>
 </p>
 
-<p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-tech-stack--skills">Skills</a> •
-  <a href="#-git-stats">Stats</a> •
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=premz-zen&style=flat-square&color=79c0ff&label=Profile+Views" alt="Profile Views" />
+
+<!-- Nav Links -->
+<p>
+  <a href="#-about-me">About Me</a> &nbsp;•&nbsp;
+  <a href="#-tech-stack--skills">Skills</a> &nbsp;•&nbsp;
+  <a href="#-github-stats">Stats</a> &nbsp;•&nbsp;
+  <a href="#-activity">Activity</a> &nbsp;•&nbsp;
   <a href="#-connect-with-me">Contact</a>
 </p>
 
-<hr />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
 ### 💫 About Me
 
-I am a passionate **AI & Data Engineer** focused on building innovative AI-powered applications and data-driven solutions. I enjoy bridging the gap between raw data pipelines and intelligent agent architectures, leveraging modern cloud infrastructures to turn data into actionable insights.
+I'm a passionate **AI & Data Engineer** focused on building intelligent, data-driven applications that bridge the gap between raw pipelines and production AI systems. I leverage modern cloud infrastructure to transform data into meaningful, automated insights.
 
-*   🔭 **Current Focus:** Building AI-powered applications and designing robust data pipelines.
-*   🎓 **Learning Journey:** Deep-diving into **AI Agent Development**, **Azure AI Services**, and advanced Python paradigms.
-*   💡 **Interests:** Artificial Intelligence, Machine Learning, Data Analytics, Semantic Models, Snowflake, Microsoft Fabric, and Cloud Technologies.
-*   🚀 **Goals:** Developing cutting-edge AI solutions, growing my expertise in Cloud Data Engineering, and actively contributing to open-source projects.
+- 🔭 **Building:** AI-powered applications and scalable data pipelines
+- 🎓 **Learning:** AI Agent Development · Azure AI Services · Advanced Python
+- 💡 **Interests:** Machine Learning · Semantic Models · Snowflake · Microsoft Fabric · Cloud Architecture
+- 🚀 **Goal:** Build innovative AI solutions that create real-world impact
 
 <br />
 
 ### 🛠️ Tech Stack & Skills
 
-To maintain consistency and a clean aesthetic, I use a unified dark color scheme for my primary toolkit:
+**AI & Languages**
 
-| Category | Technologies |
-| :--- | :--- |
-| **AI & Languages** | ![Python](https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-1a1b26?style=flat-square&logo=sqlite&logoColor=ffffff) ![Azure AI Services](https://img.shields.io/badge/Azure_AI_Services-1a1b26?style=flat-square&logo=microsoft-azure&logoColor=ffffff) |
-| **Data Engineering** | ![Snowflake](https://img.shields.io/badge/Snowflake-1a1b26?style=flat-square&logo=snowflake&logoColor=ffffff) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1a1b26?style=flat-square&logo=microsoft&logoColor=ffffff) ![Power BI](https://img.shields.io/badge/Power_BI-1a1b26?style=flat-square&logo=power-bi&logoColor=ffffff) |
-| **Cloud & Tools** | ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1a1b26?style=flat-square&logo=microsoft-azure&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=ffffff) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Azure AI Services](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**Data Engineering**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+**Cloud & Tools**
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <br />
 
-### 📊 Git Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="4" cellspacing="0">
     <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=premz-zen&show_icons=true&theme=dark&bg_color=1a1b26&title_color=ffffff&icon_color=79c0ff&text_color=8b949e&border_color=30363d" alt="Premasai's GitHub Stats" />
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=premz-zen&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&border_color=21262d&hide_border=false" alt="Premasai's GitHub Stats" />
       </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premz-zen&layout=compact&theme=dark&bg_color=1a1b26&title_color=ffffff&icon_color=79c0ff&text_color=8b949e&border_color=30363d" alt="Premasai's Top Languages" />
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premz-zen&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&border_color=21262d&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=premz-zen&theme=tokyonight-duo&background=0d1117&border=21262d&stroke=79c0ff&ring=79c0ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -52,45 +80,54 @@ To maintain consistency and a clean aesthetic, I use a unified dark color scheme
 
 <br />
 
-### 🚀 Core Focus & Roadmap
+### 📈 Activity
 
-Here's how I structure my data-to-AI initiatives:
-
-```text
-┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
-│  Data Ingestion │ ────> │ Data Warehouse  │ ────> │  Intelligent    │
-│  & Engineering  │       │ & Modeling      │       │  Applications   │
-│                 │       │                 │       │                 │
-│  • Python / SQL │       │  • Snowflake    │       │  • Azure AI     │
-│  • Git / CI-CD  │       │  • MS Fabric    │       │  • AI Agents    │
-└─────────────────┘       └─────────────────┘       └─────────────────┘
-```
-
-#### 📁 Featured Focus Areas:
-
-*   **Intelligent Systems (AI/ML):** Designing agentic workflows, integrating Large Language Models (LLMs) via Azure AI Services, and architecting semantic search and prompt frameworks in Python.
-*   **Modern Data Warehousing:** Architecting scalable tables, schema modeling, and implementing analytical semantic models using Snowflake and Microsoft Fabric.
-*   **Data Products & BI:** Creating interactive analytics dashboards and semantic layers using Power BI to drive organizational decisions.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premz-zen&bg_color=0d1117&color=79c0ff&line=79c0ff&point=ffffff&area=true&area_color=79c0ff&hide_border=true" alt="Contribution Activity Graph" />
+</div>
 
 <br />
 
-### 🤝 Connect with me
+### 🚀 Core Focus & Roadmap
 
-Let's collaborate on building the future of AI and Data products!
+Here's how I architect end-to-end data-to-AI pipelines:
 
-<p align="left">
-  <!-- Replace the placeholder URL with your actual LinkedIn profile link -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
-  </a>
-  <!-- Replace the placeholder email with your actual email address -->
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" />
-  </a>
-  <a href="https://github.com/premz-zen">
-    <img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
-</p>
+```text
+┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
+│  Data Ingestion  │ ───> │  Data Warehouse  │ ───> │   Intelligent    │
+│  & Engineering   │      │  & Modeling      │      │   Applications   │
+│                  │      │                  │      │                  │
+│  • Python / SQL  │      │  • Snowflake     │      │  • Azure AI      │
+│  • Git / CI-CD   │      │  • MS Fabric     │      │  • AI Agents     │
+└──────────────────┘      └──────────────────┘      └──────────────────┘
+```
 
+- **Intelligent Systems (AI/ML)** — Agentic workflows, LLM integration via Azure AI Services, semantic search in Python
+- **Modern Data Warehousing** — Scalable schema modeling with Snowflake and Microsoft Fabric
+- **Data Products & BI** — Interactive Power BI dashboards and semantic layers for business decisions
 
+<br />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
+### 🤝 Connect with Me
+
+> *"Data is the new oil — AI is the refinery. Let's build together."*
+
+<!-- Replace YOUR-LINKEDIN with your LinkedIn username -->
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<!-- Replace your.email@example.com with your actual email -->
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/premz-zen">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
+
+<div align="center">
+  <sub>⭐ If you find any of my projects useful, consider giving them a star — it means a lot!</sub>
+</div>
