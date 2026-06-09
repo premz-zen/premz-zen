@@ -9,8 +9,6 @@
   <strong>AI & Data Engineer &nbsp;|&nbsp; Cloud Solutions Builder &nbsp;|&nbsp; Open Source Learner</strong>
 </p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=premz-zen&style=flat-square&color=79c0ff&label=Profile+Views" alt="Profile Views" />
 
 <!-- Nav Links -->
 <p>
@@ -61,21 +59,19 @@ I'm a passionate **AI & Data Engineer** focused on building intelligent, data-dr
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0" cellpadding="4" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=premz-zen&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&border_color=21262d&hide_border=false" alt="Premasai's GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premz-zen&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&border_color=21262d&hide_border=false" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=premz-zen&theme=tokyonight-duo&background=0d1117&border=21262d&stroke=79c0ff&ring=79c0ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+
+  <!-- GitHub Stats via Shields.io (always reliable) -->
+  ![Followers](https://img.shields.io/github/followers/premz-zen?style=flat-square&color=79c0ff&labelColor=0d1117&label=Followers)
+  ![Stars](https://img.shields.io/github/stars/premz-zen?style=flat-square&color=ffd700&labelColor=0d1117&label=Stars)
+
+  <!-- Streak Stats (working) -->
+  <br />
+  <img src="https://streak-stats.demolab.com?user=premz-zen&theme=tokyonight-duo&background=0d1117&border=21262d&stroke=79c0ff&ring=79c0ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premz-zen&layout=compact&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&border_color=21262d" alt="Top Languages" />
+
 </div>
 
 <br />
