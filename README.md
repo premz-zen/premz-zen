@@ -20,3 +20,16 @@ I am a passionate **AI & Data Engineer** focused on building innovative AI-power
 *   🎓 **Learning Journey:** Deep-diving into **AI Agent Development**, **Azure AI Services**, and advanced Python paradigms.
 *   💡 **Interests:** Artificial Intelligence, Machine Learning, Data Analytics, Semantic Models, Snowflake, Microsoft Fabric, and Cloud Technologies.
 *   🚀 **Goals:** Developing cutting-edge AI solutions, growing my expertise in Cloud Data Engineering, and actively contributing to open-source projects.
+
+<br />
+
+### 🛠️ Tech Stack & Skills
+
+To maintain consistency and a clean aesthetic, I use a unified dark color scheme for my primary toolkit:
+
+| Category | Technologies |
+| :--- | :--- |
+| **AI & Languages** | ![Python](https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-1a1b26?style=flat-square&logo=sqlite&logoColor=ffffff) ![Azure AI Services](https://img.shields.io/badge/Azure_AI_Services-1a1b26?style=flat-square&logo=microsoft-azure&logoColor=ffffff) |
+| **Data Engineering** | ![Snowflake](https://img.shields.io/badge/Snowflake-1a1b26?style=flat-square&logo=snowflake&logoColor=ffffff) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1a1b26?style=flat-square&logo=microsoft&logoColor=ffffff) ![Power BI](https://img.shields.io/badge/Power_BI-1a1b26?style=flat-square&logo=power-bi&logoColor=ffffff) |
+| **Cloud & Tools** | ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1a1b26?style=flat-square&logo=microsoft-azure&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=ffffff) |
+
